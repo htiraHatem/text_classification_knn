@@ -2,3 +2,5 @@
 textClassification/.vs/textClassification/v16/.suo
 
 textClassification/.vs/textClassification/v16/Server/sqlite3/db.lock
+
+*.ide-wal

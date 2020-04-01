@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Projects git ++\text_classification_knn\textClassification\textClassification\bin\Debug\textClassification.exe.config
+C:\Users\ASUS\Documents\Projects git ++\text_classification_knn\textClassification\textClassification\bin\Debug\textClassification.exe
+C:\Users\ASUS\Documents\Projects git ++\text_classification_knn\textClassification\textClassification\bin\Debug\textClassification.pdb
+C:\Users\ASUS\Documents\Projects git ++\text_classification_knn\textClassification\textClassification\obj\Debug\textClassification.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Projects git ++\text_classification_knn\textClassification\textClassification\obj\Debug\textClassification.exe
+C:\Users\ASUS\Documents\Projects git ++\text_classification_knn\textClassification\textClassification\obj\Debug\textClassification.pdb
