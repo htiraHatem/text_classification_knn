@@ -10,8 +10,6 @@ namespace textClassification
     class BOW
     {
         private static List<String> BagOfWords = new List<String>();
-        string folder = @"..\..\..\..\Articles\";
-
         private static dynamic path = Directory.EnumerateFiles(@"..\..\..\..\Articles\TrainingData", "*.txt");
 
         /// create bag of words

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -37,10 +37,13 @@ namespace textClassification
 
             //print our all distances + their labels.
             Console.WriteLine("order by distance : ");
+            Console.WriteLine("with k  = "+ kValue);
+            Console.WriteLine("order / Distance / Class");
+            Console.WriteLine("==========================");
             int order = 0;
 ;            foreach (var result in orderedResultList)
             {
-                Console.WriteLine(++order +" distance : " + result.result.ToString() + " | " + result.label.ToString());
+                Console.WriteLine( "  " + ++order +"  :   " + string.Format("{0:0.000}", result.result) + "   :  " + result.label.ToString());
             }
 
             int counterPolitic = 0;
